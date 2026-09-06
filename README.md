@@ -4,7 +4,7 @@ Bienvenue sur le dépôt de notre projet de **MotMêlé** développé en Python 
 
 ---
 
-## ✨ Fonctionnalités principales
+## ✨ Fonctionnalités principales 
 
 * **Génération intelligente :** Création de grilles de mots mêlés basée sur la distribution officielle des lettres du jeu du **Scrabble**.
 * **Immersion visuelle :** Une interface graphique travaillée avec des décors inspirés de la **savane** pour rendre l'expérience plus vivante.
