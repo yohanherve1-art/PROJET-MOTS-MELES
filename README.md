@@ -15,20 +15,12 @@ Bienvenue sur le dépôt de notre projet de **MotMêlé** développé en Python 
 
 ---
 
-## 📂 Structure du projet
+## ⚠️ Note importante concernant l'exécution en ligne
+Ce projet utilise **Tkinter** pour son interface graphique et **Pygame** pour la gestion multimédia. En raison de ces dépendances graphiques et audio, **le code ne peut pas s'exécuter directement dans le navigateur via le terminal cloud de GitHub Codespaces** (qui ne dispose pas d'interface d'affichage native).
 
-Le projet est organisé de la manière suivante pour garantir une portabilité totale (chemins relatifs) :
-* Code source principal en Python.
-* Fichiers de ressources graphiques et sonores (dans un dossier dédié).
-* Dictionnaire de mots (`dico.txt`).
-
----
-
-## 📦 Installation et dépendances
-
-Ce projet nécessite quelques bibliothèques Python pour fonctionner (notamment pour l'affichage graphique et la gestion du jeu).
-
-1. Clonez ou téléchargez le projet sur votre machine.
-2. Installez les dépendances requises en tapant la commande suivante dans votre terminal :
-   ```bash
-   pip install pygame pillow
+### 🚀 Comment lancer le projet sur votre machine :
+Pour profiter pleinement de l'expérience et tester le jeu, il vous suffit de :
+1. **Télécharger ou cloner ce dossier** sur votre ordinateur (via le bouton vert *Code* > *Download ZIP*).
+2. Ouvrir le dossier dans votre environnement de développement Python habituel (comme VS Code ou PyCharm).
+3. Vous assurer d'avoir installé les bibliothèques requises (`pip install pygame pillow`).
+4. Ouvrir et exécuter le script principal **`PROJET S5.py`** (le fichier `tkiteasy.py` devant impérativement se trouver dans le même dossier pour gérer l'affichage).
