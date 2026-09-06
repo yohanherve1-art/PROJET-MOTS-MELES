@@ -12,18 +12,23 @@ Bienvenue sur le dépôt de notre projet de **MotMêlé** développé en Python 
   * 👤 **Mode Solo :** Jouez à votre rythme pour trouver les mots cachés.
   * 👥 **Mode Duo :** Affrontez un(e) ami(e) sur la même grille.
 * **Résolution automatique par arbre :** À la fin de la partie, un algorithme basé sur la théorie des arbres parcourt la grille pour retrouver et afficher l'intégralité des mots possibles.
-
+---
+📄 **Voici le PDF expliquant la structure du programme :** [Télécharger / Consulter la documentation (PDF)](lien_vers_votre_pdf.pdf)
 ---
 
 ## ⚠️ Note importante concernant l'exécution en ligne
 Ce projet utilise **Tkinter** pour son interface graphique et **Pygame** pour la gestion multimédia. En raison de ces dépendances graphiques et audio, **le code ne peut pas s'exécuter directement dans le navigateur via le terminal cloud de GitHub Codespaces** (qui ne dispose pas d'interface d'affichage native).
 
-### 🚀 Comment lancer le projet sur votre machine :
-Si vous n'avez pas VS Code
+### Comment lancer le projet sur votre machine si vous n'avez pas VS Code:
+
 Pour profiter pleinement de l'expérience et tester le jeu, il vous suffit de :
 1. **[Télécharger ou cloner ce dossier](https://github.com/yohanherve1-art/foule/tree/main/HERVE_HUAN)** sur votre ordinateur (via le bouton vert *Code* > *Download ZIP*).
 2. Ouvrir le dossier dans votre environnement de développement Python habituel (comme VS Code ou PyCharm).
 3. Vous assurer d'avoir installé les bibliothèques requises (`pip install pygame pillow`).
-4. Ouvrir et exécuter le script principal **`PROJET S5.py`** (le fichier `tkiteasy.py` devant impérativement se trouver dans le même dossier pour gérer l'affichage).
+4. Ouvrir et exécuter le script principal **`PROJET S5.py`** avec le fichier `tkiteasy.py` devant impérativement se trouver dans le même dossier pour gérer l'affichage !
 
-Si vous avez VS Code déjà installer sur votre appareil, il vous suffit de cl
+### Comment lancer le projet sur votre machine si vous avez VS Code déjà installer sur votre appareil:
+1. Cliquez sur le bouton vert **Code** en haut de la page.
+2. Allez dans l'onglet **Codespaces**, puis cliquez sur les petits points `...` et choisissez **Open in Visual Studio Code**.
+3. Installez les dépendances si nécessaire dans le terminal (`pip install pygame pillow`).
+4. Ouvrez le fichier **`PROJET S5.py`** et lancez-le, avec le fichier `tkiteasy.py` devant impérativement se trouver dans le même dossier pour gérer l'affichage !
