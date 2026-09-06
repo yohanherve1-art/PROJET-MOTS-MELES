@@ -12,8 +12,7 @@ Bienvenue sur le dépôt de notre projet de **MotMêlé** développé en Python 
   * 👤 **Mode Solo :** Jouez à votre rythme pour trouver les mots cachés.
   * 👥 **Mode Duo :** Affrontez un(e) ami(e) sur la même grille.
 * **Résolution automatique par arbre :** À la fin de la partie, un algorithme basé sur la théorie des arbres parcourt la grille pour retrouver et afficher l'intégralité des mots possibles.
----
-📄 **Voici le PDF expliquant la structure du programme :** [Télécharger / Consulter la documentation (PDF)](https://github.com/yohanherve1-art/foule/blob/main/HERVE_HUAN/README.pdf)
+
 ---
 ## ⚠️ Note importante concernant l'exécution en ligne
 Ce projet utilise **Tkinter** pour son interface graphique et **Pygame** pour la gestion multimédia. En raison de ces dépendances graphiques et audio, **le code ne peut pas s'exécuter directement dans le navigateur via le terminal cloud de GitHub Codespaces** (qui ne dispose pas d'interface d'affichage native).
