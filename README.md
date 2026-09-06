@@ -20,7 +20,7 @@ Ce projet utilise **Tkinter** pour son interface graphique et **Pygame** pour la
 
 ### 🚀 Comment lancer le projet sur votre machine :
 Pour profiter pleinement de l'expérience et tester le jeu, il vous suffit de :
-1. **Télécharger ou cloner ce dossier** sur votre ordinateur (via le bouton vert *Code* > *Download ZIP*).
+1. **[Télécharger ou cloner ce dossier](https://github.com/yohanherve1-art/foule/tree/main/HERVE_HUAN)** sur votre ordinateur (via le bouton vert *Code* > *Download ZIP*).
 2. Ouvrir le dossier dans votre environnement de développement Python habituel (comme VS Code ou PyCharm).
 3. Vous assurer d'avoir installé les bibliothèques requises (`pip install pygame pillow`).
 4. Ouvrir et exécuter le script principal **`PROJET S5.py`** (le fichier `tkiteasy.py` devant impérativement se trouver dans le même dossier pour gérer l'affichage).
